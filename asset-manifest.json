@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bogdanr25.github.io/robofriends/static/css/main.4e7d19f0.chunk.css",
+    "main.js": "/bogdanr25.github.io/robofriends/static/js/main.3496a2c3.chunk.js",
+    "main.js.map": "/bogdanr25.github.io/robofriends/static/js/main.3496a2c3.chunk.js.map",
+    "runtime-main.js": "/bogdanr25.github.io/robofriends/static/js/runtime-main.1710e7c5.js",
+    "runtime-main.js.map": "/bogdanr25.github.io/robofriends/static/js/runtime-main.1710e7c5.js.map",
+    "static/css/2.036b41f9.chunk.css": "/bogdanr25.github.io/robofriends/static/css/2.036b41f9.chunk.css",
+    "static/js/2.2b73e027.chunk.js": "/bogdanr25.github.io/robofriends/static/js/2.2b73e027.chunk.js",
+    "static/js/2.2b73e027.chunk.js.map": "/bogdanr25.github.io/robofriends/static/js/2.2b73e027.chunk.js.map",
+    "index.html": "/bogdanr25.github.io/robofriends/index.html",
+    "precache-manifest.a5d2695e8a50b3e3b2fa8543897c056e.js": "/bogdanr25.github.io/robofriends/precache-manifest.a5d2695e8a50b3e3b2fa8543897c056e.js",
+    "service-worker.js": "/bogdanr25.github.io/robofriends/service-worker.js",
+    "static/css/2.036b41f9.chunk.css.map": "/bogdanr25.github.io/robofriends/static/css/2.036b41f9.chunk.css.map",
+    "static/css/main.4e7d19f0.chunk.css.map": "/bogdanr25.github.io/robofriends/static/css/main.4e7d19f0.chunk.css.map",
+    "static/js/2.2b73e027.chunk.js.LICENSE.txt": "/bogdanr25.github.io/robofriends/static/js/2.2b73e027.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bogdanr25.github.io/robofriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1710e7c5.js",
+    "static/css/2.036b41f9.chunk.css",
+    "static/js/2.2b73e027.chunk.js",
+    "static/css/main.4e7d19f0.chunk.css",
+    "static/js/main.3496a2c3.chunk.js"
+  ]
+}
